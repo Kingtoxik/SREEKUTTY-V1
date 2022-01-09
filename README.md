@@ -1,17 +1,16 @@
 <a href="https://bit.ly/3koZRGY"><img src="20220109_155332.jpg" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="250" height="200"/>
-</p>
+        
 
 <div align="center">
 
-## [![SREEKUTTY](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+SREEKUTTY+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## ![SREEKUTTY](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+SREEKUTTY+WA+Bot+repo;Created+by+KING+TOXIC;This+is+the+Best++Bgm+bot;With+more+features)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title=KING TOXIC " src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title=KING TOXIC " src="https://img.shields.io/badge/KING TOXIC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/KING TOXIC"><img title="Author" src="https://img.shields.io/badge/Author-KING TOXIC/SREEKUTTY?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -69,7 +68,7 @@ Click SREEKUTTY logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@SREEKUTTYcreator/SREEKUTTY-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/KING TOXIC/SREEKUTTY.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/KINGTOXIC/SREEKUTTY.git)
      </div>
 <br>
 <br >
@@ -127,7 +126,7 @@ Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributors
-`Ameer Suhail`
+`kingtoxik`
 `Afnanplk`
 `Cyberchekuthan`
 `Farhan-Dqz`
